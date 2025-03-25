@@ -65,15 +65,15 @@ This project focuses on developing a machine learning model to proactively detec
 
 4️⃣ Model Evaluation
 
-**Metrics Used**:
-- Accuracy
-- Precision
-- Recall
-- F1-Score
-- AUC-ROC Curve
+  **4.1. Metrics Used**:
+  - Accuracy
+  - Precision
+  - Recall
+  - F1-Score
+  - AUC-ROC Curve
 
-**Best-Performing Model**:
-- Logistic Regression with 50% Accuracy Score
+  **4.2. Best-Performing Model**:
+  - Logistic Regression with 50% Accuracy Score
 
 5️⃣ Key Fraud Indicators
 - High transaction amounts
