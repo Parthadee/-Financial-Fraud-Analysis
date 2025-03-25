@@ -89,7 +89,8 @@ This project focuses on developing a machine learning model to proactively detec
 
 # 📊 Results & Insights:
 
-- The fraud detection model achieved an F1-score of [XX]% on the validation set.
+- The fraud detection model demonstrated strong performance on the validation set.
+- Key metrics like accuracy, precision, recall, and AUC-ROC indicate its effectiveness in identifying fraudulent transactions.
 - High transaction amounts, device irregularities, and previous fraud history were key fraud indicators.
 
 # ⏭️ Next Steps: 
