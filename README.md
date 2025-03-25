@@ -7,7 +7,7 @@ This project focuses on developing a machine learning model to proactively detec
 
 # 📊 Dataset Information: 
 - **Source**: [Fraud Analysis](https://www.kaggle.com/datasets/parthaade/fraud-analysis) 
-- **Data Dictionary**: [Data Dictionary Link](#) *(Add the actual link here)*  
+- **Data Dictionary**: [Dictionary](https://github.com/Parthadee/-Financial-Fraud-Analysis/blob/83112c081a8a18a8c34572682504dfc08a5c25db/Data%20Dictionary.txt)
 - **Size**: 6.3M+ transactions, 10 features  
 - **File Format**: The dataset is provided in **.XLS format**. Please **download** and convert it to **CSV** using:  
 
