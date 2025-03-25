@@ -1,4 +1,4 @@
-# Fraud Analytics: Performance Evaluation of Financial Transactions
+# Financial Fraud Detection Using Machine Learning
 
 <img src= "https://github.com/Parthadee/-Financial-Fraud-Analysis/blob/7ab17441f94cd437acb5a23771da244a3a354ed7/img/How-Fraud-Detection-Works-1.webp" />
 
