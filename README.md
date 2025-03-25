@@ -23,7 +23,7 @@ This project focuses on developing a machine learning model to proactively detec
   df = pd.read_excel("dataset.xls")  # Load the XLS file
   df.to_csv("dataset.csv", index=False)  # Convert and save as CSV
   
-## Features Included
+## 🧩 Features Included: 
 
 | Feature Name      | Description                                      |
 |------------------|--------------------------------------------------|
@@ -97,7 +97,7 @@ This project focuses on developing a machine learning model to proactively detec
 - Real-time fraud detection system integration
 - Deployment using Flask/FastAPI
 
-# 🛠️ Installation & Usage :
+# 🛠️ Installation & Usage:
 1️⃣ Clone Repository
  ```
 git clone https://github.com/yourusername/FraudShield.git
@@ -114,7 +114,7 @@ pip install -r requirements.txt
 python fraud_detection.py
  ```
    
-**Technology Used**:
+# 💻 Technology:
 - #### Languages:
   - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - #### ML/DL:
