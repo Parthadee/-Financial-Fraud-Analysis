@@ -1,14 +1,27 @@
 # Fraud Analytics: Performance Evaluation of Financial Transactions
 
-<img src= "image/binance-spot-trading-featured-image.avif" />
+<img src= "https://github.com/Parthadee/-Financial-Fraud-Analysis/blob/7ab17441f94cd437acb5a23771da244a3a354ed7/img/How-Fraud-Detection-Works-1.webp" />
 
 # 🔍 Project Overview: 
 This project focuses on developing a machine learning model to proactively detect fraudulent transactions for a financial company. The dataset contains 6,362,620 rows and 10 columns, requiring thorough data analysis, feature selection, and model fine-tuning to achieve high accuracy in fraud detection.
 
 # 📊 Dataset Information: 
-- Source: [Dataset Link] (Add the actual link here)
-- Data Dictionary: [Data Dictionary Link] (Add the actual link here)
-- Size: 6.3M+ transactions, 10 features
+- **Source**: [Dataset Link](#) *(Add the actual link here)*  
+- **Data Dictionary**: [Data Dictionary Link](#) *(Add the actual link here)*  
+- **Size**: 6.3M+ transactions, 10 features  
+- **File Format**: The dataset is provided in **.XLS format**. Please **download** and convert it to **CSV** using:  
+
+  ### Convert XLS to CSV  
+  **Method 1: Using Excel**  
+  1. Open the `.xls` file in **Microsoft Excel**.  
+  2. Click **File** → **Save As**.  
+  3. Choose **CSV (.csv)** as the format and save the file.  
+
+  **Method 2: Using Python (pandas)**  
+  ```python
+  import pandas as pd
+  df = pd.read_excel("dataset.xls")  # Load the XLS file
+  df.to_csv("dataset.csv", index=False)  # Convert and save as CSV
   
 ## Features Included
 
