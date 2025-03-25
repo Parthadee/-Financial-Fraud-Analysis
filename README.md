@@ -6,7 +6,7 @@
 This project focuses on developing a machine learning model to proactively detect fraudulent transactions for a financial company. The dataset contains 6,362,620 rows and 10 columns, requiring thorough data analysis, feature selection, and model fine-tuning to achieve high accuracy in fraud detection.
 
 # 📊 Dataset Information: 
-- **Source**: [Dataset Link](#) *(Add the actual link here)*  
+- **Source**: [Fraud Analysis](https://www.kaggle.com/datasets/parthaade/fraud-analysis) 
 - **Data Dictionary**: [Data Dictionary Link](#) *(Add the actual link here)*  
 - **Size**: 6.3M+ transactions, 10 features  
 - **File Format**: The dataset is provided in **.XLS format**. Please **download** and convert it to **CSV** using:  
