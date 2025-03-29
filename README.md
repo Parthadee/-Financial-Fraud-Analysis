@@ -101,7 +101,7 @@ This project focuses on developing a machine learning model to proactively detec
 # 🛠️ Installation & Usage:
 1️⃣ Clone Repository
  ```
-git clone https://github.com/yourusername/FraudShield.git
+git clone https://github.com/Parthadee/Financial-Fraud-Analysis.git
                        cd FraudShield
 ```
 
